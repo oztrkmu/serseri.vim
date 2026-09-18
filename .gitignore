@@ -1,0 +1,9 @@
+*.swp
+*.swo
+*~
+.DS_Store
+
+.vim/
+tags
+cscope.out
+compile_commands.json
