@@ -1,10 +1,11 @@
 # serseri.vim
 
-Classic Vim, a little serseri comfort. Customized for writing C on Unix.
-Grab it, make yourself at home, write some C.
+No bloat. No distractions. Just Vim.
 
-Four-space indentation, an 80-column guide, completion with clangd,
-file search, Git, formatting and debugging. Space is the leader key.
+_Serseri is a Turkish word meaning "wanderer", "rebel", or "rogue".
+A minimal, old-school Vim configuration built for C programmers, Unix enthusiasts, and those who prefer terminals over IDEs._
+
+Grab it. Hack it. Make it yours.
 
 ## Install
 
